@@ -41,8 +41,4 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rexyrex&show_icons=true&theme=radical" alt="rexyrex's github stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexyrex&layout=compact&theme=radical" alt="Top Langs" />
-
 </div>
